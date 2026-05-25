@@ -1,70 +1,62 @@
-## Hi there 👋
 
 # Hi there, I'm Salim Morenigbade 👋 
 
-I am a driven **Computer Science undergraduate at the University of Lagos (UNILAG)** specializing in **Cloud, Data, & DevOps Engineering**. I bridge the gap between robust infrastructure, high-performance data pipelines, and intelligent AI integrations. With a deep foundational grasp of **Systems Design and Analysis**, I design scalable, fault-tolerant architectures that solve real-world complexities.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Salimmadeit/Salimmadeit/main/my_photo.png" alt="Salim Morenigbade" width="160" height="160" style="border-radius: 50%;">
+</p>
+
+I am a deeply motivated **Computer Science undergraduate at the University of Lagos (UNILAG)** with an intensive focus on **Cloud, Data, & DevOps Engineering**. With a robust foundation in **Systems Design and Analysis**, I am dedicated to architecting resilient, automated, and scalable solutions that solve complex technological challenges. My work lies at the intersection of traditional infrastructure and cutting-edge AI and Web3 integration.
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 **Education:** Pursuing Computer Science at UNILAG—building a powerhouse foundation in core computing.
+- 🎓 **Education:** Pursuing B.Sc. in Computer Science at UNILAG—building a powerhouse technical foundation.
 - 🏗️ **Core Philosophy:** Automation over repetition, structural efficiency over quick fixes, and designing for scale.
 - 🎯 **Current Focus:** Sharpening my algorithmic edge by grinding **Data Structures & Algorithms (DSA)** and consistently crushing challenges on **LeetCode**.
 - 💼 **Looking for:** **Physical Internship opportunities** where I can hit the ground running, ship production-grade code, and learn from industry veterans.
-- 🏆 **Hackathons:** Highly competitive, resourceful, and actively looking to team up for upcoming **Hackathons**—let’s build something disruptive!
+- 🏆 **Hackathons:** Resourceful, competitive, and actively seeking to team up for upcoming **Hackathons**—let’s build something disruptive!
 
 ---
 
-### 💼 Professional Experience & Core Milestones
+### 💼 Experience & Core Accomplishments
 
-*   **AI Pilot Assistant | Toloka Annotators**
-    *   Optimizing AI data pipelines and validating complex algorithmic workflows to train next-generation large language models (LLMs).
-*   **Systems Design & Analysis**
-    *   Skilled at architecting decentralized architectures, map-reducing complex tasks, analyzing system trade-offs (latency vs. throughput), and designing clean backend services.
-*   **DataCamp Certified | Python & SQL**
-    *   Validated expertise in advanced data manipulation, structuring complex relational database schemas, and writing highly optimized queries.
-*   **Web3 & Blockchain Native**
-    *   Proficient in **Move (Rust-based framework)**, engineering secure, high-throughput smart contracts and decentralized ecosystems.
-*   **Global Collaboration**
-    *   Certified **IELTS 7.5 (C1 Advanced)** language proficiency, ensuring clear, high-bandwidth communication in cross-functional global teams.
+* **AI Pilot Assistant | Toloka Annotators**
+    * Validated expertise in optimizing data annotation pipelines, training high-performance language models (LLMs), and evaluating complex AI algorithmic outputs.
+* **Systems Design & Analysis**
+    * Skilled at architecting decentralized systems, analyzing critical latency vs. throughput trade-offs, and designing clean, scalable backend service structures.
+* **DataCamp Certified | Python & SQL**
+    * Validated proficiency in advanced data manipulation, structuring complex relational database schemas, and writing highly optimized queries.
+* **Web3 & Blockchain Native**
+    * Proficient in **Move (Rust-based language)**, engineering secure, high-throughput smart contracts and decentralized ecosystem architectures.
+* **Global Communication**
+    * Certified **IELTS 7.5 (C1 Advanced)** English proficiency, ensuring clear, high-bandwidth communication in cross-functional global teams.
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+### 🛠️ The Tech Vault 
 
-#### 💻 Languages & Data Engineering
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Move/Rust](https://img.shields.io/badge/Move_(Rust)-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<div align="center">
 
-#### 🚀 Backend & Frontend Frameworks
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+| | | | |
+| :---: | :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Icon" width="100" height="100"> | <img src="https://img.shields.io/badge/sql-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Icon" width="100" height="100"> | <img src="https://img.shields.io/badge/Move_(Rust)-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Move Icon" width="100" height="100"> | <img src="https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Icon" width="100" height="100"> |
+| <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI Icon" width="100" height="100"> | <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django Icon" width="100" height="100"> | <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJS Icon" width="100" height="100"> | <img src="https://img.shields.io/badge/Terraform-%23584359.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Icon" width="100" height="100"> |
+| <img src="https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible Icon" width="100" height="100"> | <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Icon" width="100" height="100"> | <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Icon" width="100" height="100"> | <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Icon" width="100" height="100"> |
+| <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions Icon" width="100" height="100"> | <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git Icon" width="100" height="100"> | <img src="https://raw.githubusercontent.com/anthropic-ai/claude-sdks/main/claude-2.1/claude-2.1-dark.png" alt="Claude Icon" width="100" height="100"> | <img src="https://raw.githubusercontent.com/google-gemini/gemini-api/main/docs/media/gemini-logo.png" alt="Gemini Icon" width="100" height="100"> |
 
-#### ☁️ DevOps, Cloud & Infrastructure
-![Terraform](https://img.shields.io/badge/terraform-%23584359.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+</div>
 
-#### 🤖 AI Integration & Ecosystems
-![Claude AI](https://img.shields.io/badge/Claude_AI-D97752?style=for-the-badge&logo=anthropic&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white)
+*Self-contained, square icons representing my technology vault.*
 
 ---
 
 ### 📂 Featured Projects
 
-*   **MoveConnect** 🌐
-    *   A Web3 networking ecosystem leveraging a fast **NextJS** frontend seamlessly integrated with highly secure smart contracts written in the **Move** language.
-*   **Project Ares** 🤖
-    *   An orchestrator-based software agent built for system hardware diagnostics and autonomous health evaluations, built using the **Google Gemini API**.
+* **MoveConnect** 🌐
+    * A high-performance Web3 networking platform built with a modern **NextJS** frontend seamlessly integrated with highly secure smart contracts written in the **Move** language.
+* **Project Ares** 🤖
+    * An orchestrator-based system agent for system hardware diagnostics and autonomous health evaluations, built using the **Google Gemini API**.
 
 ---
 
@@ -85,4 +77,4 @@ I am a driven **Computer Science undergraduate at the University of Lagos (UNILA
 - **LeetCode:** [leetcode.com/Salimmadeit](https://leetcode.com/Salimmadeit) *(Update with your link)*
 - **Email:** [your.email@example.com](mailto:your.email@example.com) *(Update with your email)*
 
-*Whether you're looking for an agile, technically sound intern for your engineering team, or a powerhouse teammate to dominate a hackathon podium—let's build something epic.* 🚀
+*Whether you're seeking an agile, technically sound intern for your engineering team, or a powerhouse teammate to dominate a hackathon podium—let's build something epic.* 🚀
