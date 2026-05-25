@@ -1,3 +1,6 @@
+<p align="center">
+  <img width="200" height="200" alt="My Linkedin Passport" src="https://github.com/user-attachments/assets/baf37d0b-c351-4cbc-9231-7563eb923e16" />
+</p>
 
 
 # Hi there, I'm Salim Morenigbade 👋 
