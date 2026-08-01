@@ -77,7 +77,12 @@ I am a driven **Computer Science undergraduate at the University of Lagos (UNILA
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salimmadeit&theme=tokyonight" alt="Salim's GitHub Streak" />
 </p>
-
+[![Boot.dev Build a BookBot in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/2046a95d-1dd1-46f5-923b-277e4e3ac474.jpeg?v=1781276983)](https://www.boot.dev/certificates/2046a95d-1dd1-46f5-923b-277e4e3ac474)
+[![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/b828161d-b02a-444f-8bca-cfea2f803929.jpeg?v=1781141752)](https://www.boot.dev/certificates/b828161d-b02a-444f-8bca-cfea2f803929)
+[![Boot.dev Learn Git certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/99de7995-ac34-4da3-97f3-653eb7e22740.jpeg?v=1784513387)](https://www.boot.dev/certificates/99de7995-ac34-4da3-97f3-653eb7e22740)
+[![Boot.dev Learn Object Oriented Programming in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/56b40185-e9e6-4a9d-83a0-fb5ef1492a55.jpeg?v=1784843038)](https://www.boot.dev/certificates/56b40185-e9e6-4a9d-83a0-fb5ef1492a55)
+[![Boot.dev Build Asteroids using Python and Pygame certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/26fbeb75-7e76-4391-82f2-adec0b0c5625.jpeg?v=1785447922)](https://www.boot.dev/certificates/26fbeb75-7e76-4391-82f2-adec0b0c5625)
+[![Assoiate Data Engineering DataCamp Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/track/2a404781e349107d59fbcbda84fc4652492bb01e?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
 ---
 
 ### 🤝 Let's Connect!
