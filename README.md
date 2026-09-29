@@ -5,7 +5,7 @@
 
 # Hi there, I'm Salim Morenigbade 👋 
 
-I am a driven **Computer Science undergraduate at the University of Lagos (UNILAG)** specializing in **Cloud, Data, & DevOps Engineering**. I bridge the gap between robust infrastructure, high-performance data pipelines, and intelligent AI integrations. With a deep foundational grasp of **Systems Design and Analysis**, I design scalable, fault-tolerant architectures that solve real-world complexities.
+I am a **Computer Science undergraduate at the University of Lagos (UNILAG)** specializing in **Cloud & DevOps Engineering**. I bridge the gap between robust infrastructure, high-performance data pipelines, and intelligent AI integrations. With a deep foundational grasp of **Systems Design and Analysis**, I design scalable, problem solving solutions that actually address and resolve any issues analysed from your current business model.
 
 ---
 
@@ -13,9 +13,9 @@ I am a driven **Computer Science undergraduate at the University of Lagos (UNILA
 
 - 🎓 **Education:** Pursuing Computer Science at The University Of Lagos — Building the fundamental and advanced knowledge of the principles in core computing.
 - 🏗️ **Core Philosophy:** Automation over repetition, structural efficiency over quick fixes, and designing for scale, stability and sustainability, first and foremost.
-- 🎯 **Current Focus:** Sharpening my algorithmic edge by grinding **Data Structures & Algorithms (DSA)** and consistently crushing challenges on **LeetCode**.
-- 💼 **Looking for:** **Physical Internship opportunities** where I can hit the ground running, ship production-grade code, and learn from industry veterans.
-- 🏆 **Hackathons:** Highly competitive, resourceful, and actively looking to team up for upcoming **Hackathons**—let’s build something disruptive!
+- 🎯 **Current Focus:** Sharpening my algorithmic edge by grinding **Data Structures & Algorithms (DSA)** and challenging problems on **LeetCode**.
+- 💼 **Looking for:** **Physical or Remote Internship opportunities** where I can hit the ground running, ship production-grade code, and learn from industry veterans.
+- 🏆 **Hackathons:** Highly competitive, resourceful, and actively looking to team up for upcoming **Hackathons**—let’s build something Valuable!
 
 ---
 
@@ -31,6 +31,7 @@ I am a driven **Computer Science undergraduate at the University of Lagos (UNILA
     *   Proficient in **Move (Rust-based framework)**, engineering secure, high-throughput smart contracts and decentralized ecosystems.
 *   **Global Collaboration**
     *   Certified **IELTS 7.5 (C1 Advanced)** language proficiency, ensuring clear, high-bandwidth communication in cross-functional global teams.
+    *   CUrrently learning the Go programming language.
 
 ---
 
@@ -90,4 +91,5 @@ I am a driven **Computer Science undergraduate at the University of Lagos (UNILA
 - **LeetCode:** [leetcode.com/Salimmadeit](https://leetcode.com/u/salimadebola/)
 - **Email:** [salimadebola@gmail.com](mailto:salimadebola@gmail.com)
 
+I'm Proficient in utilizing Cline, and Claude Code CLI with alternative base urls and endpoints to access free or subsidized AI models. (AgentRouter & OpenRouter)
 *Whether you're looking for an agile and technically sound intern for your engineering team, or a Good teammate to dominate a hackathon let's build something sustainable together.* 🚀
