@@ -44,13 +44,9 @@ I am a driven **Computer Science undergraduate at the University of Lagos (UNILA
 
 #### 🚀 Backend & Frontend Frameworks
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 #### ☁️ DevOps, Cloud & Infrastructure
 ![Terraform](https://img.shields.io/badge/terraform-%23584359.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -64,8 +60,11 @@ I am a driven **Computer Science undergraduate at the University of Lagos (UNILA
 
 ### 📂 Featured Projects
 
-*   **MoveConnect** 🌐
-    *   A Web3 networking ecosystem leveraging a fast **NextJS** frontend seamlessly integrated with highly secure smart contracts written in the **Move** (Rust-Based) language.
+*   **UniTrack** 🌐
+    *   UniTrack is a real-time electric campus shuttle tracking, queue estimation, and dynamic dispatch system designed specifically for the University of Lagos (UNILAG) Akoka campus. Built to support UN Sustainable Development Goals 11 (Sustainable Cities and Communities) and 13 (Climate Action), UniTrack reduces campus commuter wait times, and provides students, drivers, and dispatchers with live telemetry. Built using Java, Maven, OpenStreetMap and Anthropic's Claude.
+ 
+*   **Code_Agent**
+    *   CUrrently building an AI Agent for coding using **Python**,  a guided project from the boot.dev curriculum 
 
 ---
 
